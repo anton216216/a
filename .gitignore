@@ -1,0 +1,13 @@
+# Временная папка
+tmp/
+
+# Файлы с суффиксами _old и _backup
+*_old
+*_backup
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Скрытая папка MACOS
+__MACOSX/
